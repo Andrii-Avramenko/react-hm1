@@ -1,9 +1,9 @@
 {
-  "name": "react-hm1",
+  "name": "react-hw1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://andrii-avramenko.github.io/react-hm1",
+  "homepage": "https://andrii-avramenko.github.io/react-hw1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
