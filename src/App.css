@@ -1,0 +1,11 @@
+#root {
+  gap: 10px;
+}
+
+img, ul {
+  margin: 0 auto;
+}
+
+li {
+  text-align: start;
+}
